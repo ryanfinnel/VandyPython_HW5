@@ -1,0 +1,4 @@
+name: new-env
+channels:
+  - defaults
+prefix: /Users/ryanfinnel/opt/anaconda3/envs/new-env
